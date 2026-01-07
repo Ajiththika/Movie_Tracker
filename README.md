@@ -31,7 +31,7 @@ This project was built to showcase mastery of React's core and advanced hooks:
 
 1. **Clone the Project**
    ```bash
-   git clone [https://github.com/yourusername/cinestack.git](https://github.com/yourusername/cinestack.git)
+   git clone [https://github.com/Ajiththika/Movie_Tracker]
 
 2. **Navigate to the Project Directory**
    ```bash
